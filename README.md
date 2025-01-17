@@ -7,6 +7,8 @@
 - Semantically correct ts/js
 - Semantically correct css/css-in-js
 - Responsive UI
+- Unit tests
+- Containerisation
 
 We would like to see you implement a full stack web application comprised of:
 
